@@ -1,1 +1,5 @@
-console.log(event.toLocaleString("en-GB", { timeZone: "UTC" }));
+let a = 5;
+let b = a;
+
+b++;
+console.log(a, b); //5, 6
