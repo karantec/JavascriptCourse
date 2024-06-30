@@ -1,0 +1,2 @@
+var regexp = new RegExp("\\w+");
+console.log(regexp);
